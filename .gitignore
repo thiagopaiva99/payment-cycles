@@ -1,2 +1,7 @@
 backend/node_modules
 backend/*-lock.json
+
+frontend/node_modules
+frontend/public
+frontend/*.log
+frontend/*-lock.json
